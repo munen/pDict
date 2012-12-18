@@ -18,7 +18,7 @@ It features an easy to use interface. By keeping it simple, it let’s you quick
 
 ###Sample thesaurus lookup
 <img src="https://github.com/preek/pDict/raw/master/pdict_thesaurus_en.png">
- 
+
 
 ##Licence:
 
@@ -26,7 +26,8 @@ pDict is subject to the rules of the GPL.
 
 ##Credits:
 
-*Offline dictionary, Beolingus / TU-Chemnitz
-*Online dictionary, dict.cc
-*German thesaurus, Openthesaurus, Daniel Naber
-*English thesaurus, WordNet, Daniel Naber
+* Offline dictionary, Beolingus / TU-Chemnitz
+* Online dictionary, dict.cc
+* German thesaurus, Openthesaurus, Daniel Naber
+* English thesaurus, WordNet, Daniel Naber
+
