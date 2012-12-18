@@ -26,8 +26,8 @@ pDict is subject to the rules of the GPL.
 
 ##Credits:
 
-* Offline dictionary, Beolingus / TU-Chemnitz
-* Online dictionary, dict.cc
-* German thesaurus, Openthesaurus, Daniel Naber
-* English thesaurus, WordNet, Daniel Naber
+* Offline dictionary, [Beolingus](http://dict.tu-chemnitz.de/) / TU-Chemnitz
+* Online dictionary, [dict.cc](http://dict.cc)
+* German thesaurus, [Openthesaurus](http://www.openthesaurus.de/), Daniel Naber
+* English thesaurus, [WordNet](http://wordnet.princeton.edu/), Daniel Naber
 
