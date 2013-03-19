@@ -13,11 +13,11 @@ It features an easy to use interface. By keeping it simple, it let’s you quick
 ##Screenshots:
 
 ###Sample dictionary lookup
-<img src="https://github.com/preek/pDict/raw/master/pdict_search.png">
+<img src="https://github.com/munen/pDict/raw/master/pdict_search.png">
 
 
 ###Sample thesaurus lookup
-<img src="https://github.com/preek/pDict/raw/master/pdict_thesaurus_en.png">
+<img src="https://github.com/munen/pDict/raw/master/pdict_thesaurus_en.png">
 
 
 ##Licence:
